@@ -1,7 +1,5 @@
 # Sublist3r ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white) [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-green.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) [![Stars](https://img.shields.io/github/stars/aboul3la/Sublist3r?style=social)](https://github.com/aboul3la/Sublist3r/stargazers)
 
-![Banner]()(https://media.geeksforgeeks.org/wp-content/uploads/20200705195845/sublister5.png)
-
 > **Sublist3r** is a fast and powerful Python tool designed for OSINT-based subdomain enumeration. It helps penetration testers, bug bounty hunters, and security researchers discover hidden subdomains for targeted domains. Sublist3r leverages multiple search engines (Google, Yahoo, Bing, Baidu, Ask) and passive sources (Netcraft, VirusTotal, ThreatCrowd, DNSdumpster, ReverseDNS, BufferOverRun, CertSpotter) to build comprehensive subdomain lists.
 
 **Enhanced to v3.0 by [Shaheer Yasir](https://github.com/shaheeryasir) (2025):** Full Python 3 support, new passive engines (CertSpotter for Certificate Transparency logs, BufferOverRun for DNS intel), JSON output, improved performance, and VirusTotal API v3 integration.
